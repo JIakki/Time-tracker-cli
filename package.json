@@ -1,11 +1,14 @@
 {
   "name": "Time-Tracker-Cli",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "mocha tests --recursive --watch"
+  },
+  "bin": {
+    "tracker-cli": "index.js"
   },
   "keywords": [],
   "author": "",
