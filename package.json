@@ -1,0 +1,21 @@
+{
+  "name": "Time Tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha tests --recursive --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "jsonfile": "^2.3.1",
+    "shortid": "^2.2.6"
+  },
+  "devDependencies": {
+    "should": "^9.0.2"
+  }
+}
