@@ -1,5 +1,8 @@
 # Time-tracker-cli
 
-1.``` Npm i ```
 
-2.``` node index.js ```
+#### Install globaly
+1.``` npm i -g Time-Tracker-Cli ```
+
+#### Run 
+2.``` tracker-cli ```

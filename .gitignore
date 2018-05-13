@@ -1,1 +1,4 @@
 node_modules
+*.sw*
+package-lock.json
+data
